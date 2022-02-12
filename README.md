@@ -1,5 +1,5 @@
 # pcap_analysis
-A collection of packet captures and note son how to analyze them.
+A collection of packet captures and notes on how to analyze them.
 
 ## WireShark.org
 https://wiki.wireshark.org/SampleCaptures#protobuf  
